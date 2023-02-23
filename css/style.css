@@ -67,3 +67,18 @@ body{
 .about-img{
     margin-left: -325px;
 }
+.service-background{
+    width: 624px;
+    height: 624px;
+    border-radius: 50%;
+    background-color: #F3F9FB;
+}
+.service-icon{
+   
+    border-radius: 50%;
+    background-color: #6C63FF;
+    padding: 20px;
+
+    
+
+}
