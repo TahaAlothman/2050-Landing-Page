@@ -89,3 +89,6 @@ body{
 .banner-img-2{
     margin-left: -240px;
 }
+.product-card{
+    border-bottom:3px solid #6C63FF;
+}
