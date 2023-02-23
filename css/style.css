@@ -11,6 +11,9 @@ body{
     font-weight: 700;
     padding: 53px 0;
 }
+.nav-item{
+    padding: 0 10px;
+}
 .navbar-brand{
     color: white;
     font-size: 45px;
@@ -78,7 +81,11 @@ body{
     border-radius: 50%;
     background-color: #6C63FF;
     padding: 20px;
+}
+.mydiv{
+    background-color: #F0F6FB;
+}
 
-    
-
+.banner-img-2{
+    margin-left: -240px;
 }
